@@ -202,12 +202,14 @@ button {
 :root {
     --line-border-color: #a53860;
     --disabled-line-border: #d1d2d4;
-    --button-active-color: #830a48;
+    --button-active-color: #fd9167;
     --text-color: #868991;
 }
 
 .container {
     text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .progress-container {
