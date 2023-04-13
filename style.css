@@ -1,12 +1,4 @@
-@font-face {
-  font-family: "Muli-Regular";
-  src: url("../fonts/muli/Muli-Regular.ttf"); }
-@font-face {
-  font-family: "Muli-SemiBold";
-  src: url("../fonts/muli/Muli-SemiBold.ttf"); }
-@font-face {
-  font-family: "Muli-Bold";
-  src: url("../fonts/muli/Muli-Bold.ttf"); }
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -19,26 +11,12 @@ body {
   margin: 0; }
 
 input, textarea, select, button {
-  font-family: "Muli-Regular";
+  font-family: Arial;
   color: #333;
   font-size: 13px; }
 
 p, h1, h2, h3, h4, h5, h6, ul {
   margin: 0; }
-
-img {
-  max-width: 100%; }
-
-ul {
-  padding-left: 0;
-  margin-bottom: 0; }
-
-a:hover {
-  text-decoration: none; }
-
-:focus {
-  outline: none; }
-
 .wrapper {
   min-height: 100vh;
   background-size: cover;
@@ -55,12 +33,13 @@ a:hover {
   padding: 30px;
   border-radius: 5px;
   background-color: whitesmoke;
-  /* background: url("../images/registration-form-2.jpg"); } */
+  
 }
   .inner h3 {
     text-transform: uppercase;
     font-size: 22px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial;
+    font-weight: bold;
     /* text-align: center; */
     margin-bottom: 30px;
     color: #333;
@@ -68,7 +47,6 @@ a:hover {
 
 form {
   width: 100%;
-  /* padding-left: 45px;  */
 }
 
 .form-group {
@@ -103,7 +81,7 @@ form {
   height: 40px;
   padding: 0 20px;
   border-radius: 2px;
-  font-family: "Muli-Bold";
+  font-family: Arial;
   background: none; }
   .form-control:focus {
     border: 1px solid #fd295d; }
@@ -131,7 +109,7 @@ button {
   font-size: 13px;
   color: #fff;
   text-transform: uppercase;
-  font-family: "Muli-SemiBold";
+  font-family: Arial;
   border-radius: 2px;
   overflow: hidden;
   -webkit-transform: perspective(1px) translateZ(0);
@@ -216,4 +194,4 @@ button {
     padding-right: 15px;
     padding-left: 15px; } }
 
-/*# sourceMappingURL=style.css.map */
+
