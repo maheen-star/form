@@ -27,7 +27,7 @@ p, h1, h2, h3, h4, h5, h6, ul {
 .inner {
   /* min-width: 850px; */
   margin: auto;
-  padding-top: 58px;
+  padding-top: 14px;
   border-radius: 5px;
   
 }
@@ -72,6 +72,8 @@ form {
     margin-bottom: 9px;
     display: block;
     font-size: 14px;
+    font-family: Arial;
+    font-weight: 500;
     text-transform: uppercase;
     color: black;
 }
