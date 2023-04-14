@@ -215,8 +215,9 @@ button {
 	    text-align: center;
 	    list-style-type: none;
 	    color: #363636;
+	    font-family: Arial;
 	    text-transform: CAPITALIZE;
-	    width: 28.65%;
+	    width: 24.65%;
 	    float: left;
 	    position: relative;
 	    font-weight: 600; 		 
