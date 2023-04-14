@@ -70,6 +70,9 @@ form {
   display: flex;
   justify-content: space-between;
  }
+.form-wrapper-0{
+  margin-bottom: 17px;
+}
  .form-control{
   box-shadow: 0 5px 20px 0 rgba(0,0,0,.05);
     -moz-box-shadow: 0 5px 20px 0 rgba(0,0,0,.05);
@@ -81,7 +84,7 @@ form {
     -moz-transition: all .4s;
     transition: all .4s;
  }
-  .form-wrapper label {
+  .form-wrapper, .form-wrapper-0 label {
     margin-bottom: 9px;
     display: block;
     font-size: 14px;
