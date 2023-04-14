@@ -270,6 +270,9 @@ button {
   form {
 /*     width: 80%; */
     padding-right: 15px;
-    padding-left: 15px; } }
+    padding-left: 15px; }
+   .form-control{
+	  padding: 0 6px;}
+}
 
 
