@@ -160,7 +160,7 @@ button {
   padding: 0;
   background: #f8ce60;
   font-size: 14px;
-  font-weight: 700px;
+  font-weight: 700;
   color: #a17828;
   text-transform: uppercase;
   font-family: Arial;
@@ -202,7 +202,7 @@ button:hover:before {
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
 .btn-1 {
-  border: 1px solid;
+  border: 2px solid;
   background: none;
   border-color: #1c1a45;
   color: #1c1a45;
