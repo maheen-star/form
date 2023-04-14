@@ -259,7 +259,7 @@ button {
 
 @media (max-width: 991px) {
   .inner {
-    min-width: 768px; } }
+    min-width: 668px; } }
 @media (max-width: 767px) {
   .inner {
     min-width: auto;
@@ -268,7 +268,7 @@ button {
     padding-bottom: 0; }
 
   form {
-    width: 100%;
+    width: 80%;
     padding-right: 15px;
     padding-left: 15px; } }
 
