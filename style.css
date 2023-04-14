@@ -273,6 +273,9 @@ button {
     padding-left: 15px; }
    .form-control{
 	  padding: 0 6px;}
+ .form-wrapper{
+	 justify-content: space-around;
+	}
 }
 
 
