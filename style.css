@@ -122,7 +122,15 @@ form {
   text-transform: uppercase;
   color: black;
 }
-
+.form-wrapper-0 label {
+  margin-bottom: 9px;
+  display: block;
+  font-size: 14px;
+  font-family: Arial;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: black;
+}
 .form-control {
   border: 1px solid #ccc;
   display: block;
