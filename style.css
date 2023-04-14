@@ -84,7 +84,7 @@ form {
     -moz-transition: all .4s;
     transition: all .4s;
  }
-  .form-wrapper, .form-wrapper-0 label {
+  .form-wrapper label {
     margin-bottom: 9px;
     display: block;
     font-size: 14px;
