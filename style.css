@@ -208,7 +208,7 @@ button {
 .multi-step-bar{
 	  overflow: hidden;
   	  counter-reset: step;
- 	  width: 75%;
+ 	  width: 100%;
 	  margin:15px auto 30px;
 }
  li {
@@ -216,7 +216,7 @@ button {
 	    list-style-type: none;
 	    color: #363636;
 	    text-transform: CAPITALIZE;
-	    width: 16.65%;
+	    width: 28.65%;
 	    float: left;
 	    position: relative;
 	    font-weight: 600; 		 
