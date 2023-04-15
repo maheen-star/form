@@ -346,5 +346,6 @@ li.active:before {
   .wrapper{
     display: flex;
     align-items: baseline;
+    overflow-y: hidden;
   }
 }
