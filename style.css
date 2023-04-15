@@ -325,6 +325,7 @@ li.active:before {
     background: none;
     padding-top: 0;
     padding-bottom: 0;
+    margin: 0;
   }
 
   form {
