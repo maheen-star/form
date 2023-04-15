@@ -340,6 +340,6 @@ li.active:before {
   } */
   .wrapper{
     display: flex;
-    align-items: base-line;
+    align-items: baseline;
   }
 }
