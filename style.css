@@ -204,6 +204,8 @@ button:before {
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
 }
+button:hover{
+  color: white;}
 button:hover:before {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
