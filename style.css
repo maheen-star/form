@@ -207,6 +207,7 @@ button:before {
 button:hover:before {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
+  color: white;
   -webkit-transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
