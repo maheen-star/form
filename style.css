@@ -338,4 +338,8 @@ li.active:before {
   /* .form-wrapper {
     justify-content: space-around;
   } */
+  .wrapper{
+    display: flex;
+    align-items: base-line;
+  }
 }
