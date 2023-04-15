@@ -169,7 +169,7 @@ button {
   background: #f8ce60;
   font-size: 14px;
   font-weight: 700;
-  color: #a17828;
+  color: black;
   text-transform: uppercase;
   font-family: Arial;
   border-radius: 2px;
@@ -192,6 +192,7 @@ button:before {
   right: 0;
   bottom: 0;
   background: #1c1a45;
+  color: white;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
